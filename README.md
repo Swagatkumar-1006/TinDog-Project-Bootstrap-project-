@@ -1,4 +1,4 @@
-It seems like the code for your HTML page got cut off at the end. From the current content, you're building a website for "TinDog," which is likely a parody of dating apps, aimed at dogs. Here's a brief overview of the sections of your website:
+"TinDog," which is likely a parody of dating apps, aimed at dogs. Here's a brief overview of the sections of your website:
 
 Title Section:
 
